@@ -6,9 +6,9 @@ Automação do processo de cadastro de milhares de produtos no Sistema usando Py
 📋 Escopo dos Testes
 Aqui está o que esta suíte de testes cobre:
 
-[Funcionalidade 1, por exemplo: 'Login de usuário']
+[Funcionalidade 1: 'Login de usuário']
 
-[Funcionalidade 2, por exemplo: 'Cadastro de produtos']
+[Funcionalidade 2: 'Cadastro de produtos']
 
 💻 Stack Tecnológica
 Linguagem: [Python]
